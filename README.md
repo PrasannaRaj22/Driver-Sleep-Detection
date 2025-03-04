@@ -1,5 +1,5 @@
 # Driver-sleep-Detection
-his project implements a Driver Sleep and Drowsiness Detection System using an Arduino, a camera (webcam), and Python. The system is designed to monitor a driver’s face and detect signs of drowsiness or sleep. If the driver is detected to be drowsy or asleep, an alert is triggered via a buzzer and LED connected to an Arduino. This is a basic system to help improve road safety by preventing accidents caused by driver fatigue.
+This project implements a Driver Sleep and Drowsiness Detection System using an Arduino, a camera (webcam), and Python. The system is designed to monitor a driver’s face and detect signs of drowsiness or sleep. If the driver is detected to be drowsy or asleep, an alert is triggered via a buzzer and LED connected to an Arduino. This is a basic system to help improve road safety by preventing accidents caused by driver fatigue.
 Components Used:
 
     Arduino (Uno or any compatible board)
